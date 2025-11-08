@@ -1,0 +1,3 @@
+- masukin folder ni ke C:\xampp\htdocs\dbMahasiswa (buat folder kalo belum ada)
+- ekstrak db nya ke phpmyadmin
+- jalankan home.php
